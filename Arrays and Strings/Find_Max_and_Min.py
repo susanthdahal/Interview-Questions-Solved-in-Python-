@@ -21,7 +21,6 @@ def find_max_min(arr):
 
 if __name__=='__main__':
     arr=[2,3,4,5,6,7,10,9,8,7]
-    arr1=[5,4,3,2,1]
     arr2=[1,2,3,4,5]
     arr3=[2,5,9,12,50,30,20,10,0,-1]
     print(find_max_min(arr))
